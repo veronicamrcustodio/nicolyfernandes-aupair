@@ -1,8 +1,11 @@
 body {
         font-family: 'Itim', serif;
+        
+  margin:0;
+  padding:0;
       }
 h1{
-  margin:0;
+  margin-top:100px;
   padding:0;
   font-weight:bold;
   letter-spacing:5px;
